@@ -21,7 +21,7 @@
     "@monaco-editor/react": "^4.4.6",
     "@primer/octicons-react": "^17.7.0",
     "@types/three": "^0.144.0",
-    "@yarnpkg/cli": "workspace:^",
+    "@yarnpkg/cli": "2.1.0",
     "@yarnpkg/parsers": "workspace:^",
     "algoliasearch": "^4.14.2",
     "clipanion": "^4.0.0-rc.2",
