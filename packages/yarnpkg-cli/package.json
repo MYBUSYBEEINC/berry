@@ -10,7 +10,7 @@
     "./package.json": "./package.json"
   },
   "dependencies": {
-    "@yarnpkg/core": "workspace:^",
+    "@yarnpkg/core": "2.1.0",
     "@yarnpkg/fslib": "workspace:^",
     "@yarnpkg/libzip": "workspace:^",
     "@yarnpkg/parsers": "workspace:^",
