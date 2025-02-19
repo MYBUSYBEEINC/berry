@@ -21,12 +21,12 @@
     "@monaco-editor/react": "^4.4.6",
     "@primer/octicons-react": "^17.7.0",
     "@types/three": "^0.144.0",
-    "@yarnpkg/cli": "workspace:^",
+    "@yarnpkg/cli": "2.1.0",
     "@yarnpkg/parsers": "workspace:^",
     "algoliasearch": "^4.14.2",
     "clipanion": "^4.0.0-rc.2",
     "clsx": "^1.2.1",
-    "dompurify": "^3.0.5",
+    "dompurify": "^3.2.4",
     "git-url-parse": "^13.1.0",
     "github-markdown-css": "^5.1.0",
     "js-untar": "^2.0.0",
@@ -62,7 +62,7 @@
     "unist-util-visit": "^2",
     "unist-util-visit-parents": "^2",
     "usehooks-ts": "^2.9.1",
-    "webpack": "^5.88.2"
+    "webpack": "^5.98.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.4.1",
