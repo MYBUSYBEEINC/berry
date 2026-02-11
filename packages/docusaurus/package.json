@@ -14,8 +14,8 @@
   },
   "dependencies": {
     "@codesandbox/sandpack-react": "^1.15.0",
-    "@docusaurus/core": "^2.4.1",
-    "@docusaurus/preset-classic": "^2.4.1",
+    "@docusaurus/core": "^3.0.0",
+    "@docusaurus/preset-classic": "^3.0.0",
     "@fontsource/pt-sans": "^5.0.5",
     "@mdx-js/react": "^1.6.22",
     "@monaco-editor/react": "^4.4.6",
@@ -31,7 +31,7 @@
     "github-markdown-css": "^5.1.0",
     "js-untar": "^2.0.0",
     "lodash": "^4.17.15",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^14.1.1",
     "markdown-it-br": "^1.0.0",
     "marked": "^5.1.1",
     "marked-base-url": "^1.0.1",
@@ -62,7 +62,7 @@
     "unist-util-visit": "^2",
     "unist-util-visit-parents": "^2",
     "usehooks-ts": "^2.9.1",
-    "webpack": "^5.88.2"
+    "webpack": "^5.104.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.4.1",
